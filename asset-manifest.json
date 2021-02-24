@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ra-homework-1-2/static/css/main.6479132a.chunk.css",
+    "main.js": "/ra-homework-1-2/static/js/main.b223ddc4.chunk.js",
+    "main.js.map": "/ra-homework-1-2/static/js/main.b223ddc4.chunk.js.map",
+    "runtime-main.js": "/ra-homework-1-2/static/js/runtime-main.62467b49.js",
+    "runtime-main.js.map": "/ra-homework-1-2/static/js/runtime-main.62467b49.js.map",
+    "static/js/2.eee0bc85.chunk.js": "/ra-homework-1-2/static/js/2.eee0bc85.chunk.js",
+    "static/js/2.eee0bc85.chunk.js.map": "/ra-homework-1-2/static/js/2.eee0bc85.chunk.js.map",
+    "static/js/3.7a6a7b60.chunk.js": "/ra-homework-1-2/static/js/3.7a6a7b60.chunk.js",
+    "static/js/3.7a6a7b60.chunk.js.map": "/ra-homework-1-2/static/js/3.7a6a7b60.chunk.js.map",
+    "index.html": "/ra-homework-1-2/index.html",
+    "static/css/main.6479132a.chunk.css.map": "/ra-homework-1-2/static/css/main.6479132a.chunk.css.map",
+    "static/js/2.eee0bc85.chunk.js.LICENSE.txt": "/ra-homework-1-2/static/js/2.eee0bc85.chunk.js.LICENSE.txt",
+    "static/media/shop-item.css": "/ra-homework-1-2/static/media/item-blue.2103f69b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62467b49.js",
+    "static/js/2.eee0bc85.chunk.js",
+    "static/css/main.6479132a.chunk.css",
+    "static/js/main.b223ddc4.chunk.js"
+  ]
+}
